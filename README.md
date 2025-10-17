@@ -30,7 +30,7 @@
   <img src="https://www.yorku.ca/brand/wp-content/uploads/sites/386/2023/08/UB_Logos_1.png" width="220" alt="York University Logo">
 </a> 
 
-**Bachelor of Commerce in Information Technology — Business Systems Analysis**  
+**Bachelor of Commerce in Information Technology - Focusing on Business Systems Analysis**  
 📍 York University • 2023 - 2027  
 
 **Relevant Coursework:**  
